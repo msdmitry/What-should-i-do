@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "emoji-icon-glossy-06-03-activities-game-crystal-ball-72dpi-forPersonalUseOnly.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "emoji-icon-glossy-06-03-activities-game-crystal-ball-72dpi-forPersonalUseOnly@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "emoji-icon-glossy-06-03-activities-game-crystal-ball-72dpi-forPersonalUseOnly@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
